@@ -4,8 +4,132 @@
 		"selected_items":
 		[
 			[
+				"text",
+				"textarea\tTag"
+			],
+			[
+				"ver",
+				"verbose_name_plural"
+			],
+			[
+				"blog",
+				"blog_mvmv"
+			],
+			[
+				"grup",
+				"grupoBolas"
+			],
+			[
+				"grupoBol",
+				"grupoBolasASeremAdicionadas"
+			],
+			[
+				"gru",
+				"grupoCaindo〔variable〕"
+			],
+			[
+				"bolas",
+				"grupoBolasASeremAdicionadas〔variable〕"
+			],
+			[
+				"grubas",
+				"grupoBolas"
+			],
+			[
+				"bolaex",
+				"bolasExtras〔argument〕"
+			],
+			[
+				"baixa",
+				"baixarTween"
+			],
+			[
+				"bola",
+				"bolasExtras〔argument〕"
+			],
+			[
+				"grupoBola",
+				"grupoBolasExtras"
+			],
+			[
+				"grupo",
+				"grupoBolas〔variable〕"
+			],
+			[
+				"ponto",
+				"pontoDoTiro〔variable〕"
+			],
+			[
+				"get",
+				"getChildAt"
+			],
+			[
+				"ge",
+				"getChildAt"
+			],
+			[
+				"gruas",
+				"grupoBolas〔variable〕"
+			],
+			[
+				"ex",
+				"grupoBolasExtras〔variable〕"
+			],
+			[
+				"altu",
+				"alturaPainelPontos〔variable〕"
+			],
+			[
+				"tama",
+				"tamanhoBloco〔variable〕"
+			],
+			[
+				"colocar",
+				"colocarBolaExtra〔variable〕"
+			],
+			[
+				"colcar",
+				"colocarBolaExtra"
+			],
+			[
+				"on",
+				"onComplete"
+			],
+			[
+				"baix",
+				"baixarTween"
+			],
+			[
+				"game",
+				"gameOptions〔variable〕"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"placa",
+				"placarPontos"
+			],
+			[
+				"velo",
+				"velocity"
+			],
+			[
+				"ati",
+				"atiraBola"
+			],
+			[
+				"mi",
+				"miraBola"
+			],
+			[
+				"taman",
+				"tamanhoBola"
+			],
+			[
 				"fun",
-				"fun\tFunction"
+				"function〔keyword〕"
 			],
 			[
 				"font",
@@ -52,20 +176,12 @@
 				"physicsBodyType"
 			],
 			[
-				"grup",
-				"grupoInimigo〔variable〕"
-			],
-			[
 				"en",
 				"enableBody"
 			],
 			[
 				"til",
 				"tilemaps"
-			],
-			[
-				"on",
-				"onDown"
 			],
 			[
 				"loa",
@@ -87,6 +203,69 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "game.js",
+			"settings":
+			{
+				"buffer_size": 19374,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/vinicius/Projetos/SUAP/suap-curso/blog_mvmv/models.py",
+			"settings":
+			{
+				"buffer_size": 1101,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/vinicius/Projetos/SUAP/suap-curso/blog_mvmv/views.py",
+			"settings":
+			{
+				"buffer_size": 1058,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/vinicius/Projetos/SUAP/suap-curso/blog_mvmv/templates/post.html",
+			"settings":
+			{
+				"buffer_size": 876,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/vinicius/Projetos/SUAP/suap-curso/blog_mvmv/templates/index.html",
+			"settings":
+			{
+				"buffer_size": 475,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/vinicius/Projetos/SUAP/suap-curso/blog_mvmv/templates/categoria.html",
+			"settings":
+			{
+				"buffer_size": 415,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/vinicius/Projetos/SUAP/suap-curso/blog_mvmv/admin.py",
+			"settings":
+			{
+				"buffer_size": 147,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -95,17 +274,21 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 137.0,
-		"last_filter": "commen",
+		"height": 236.0,
+		"last_filter": "",
 		"selected_items":
 		[
 			[
-				"commen",
-				"Toggle Block Comment"
+				"wr",
+				"Word Wrap: Toggle"
 			],
 			[
 				"wrap",
-				"Word Wrap: Toggle"
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"commen",
+				"Toggle Block Comment"
 			],
 			[
 				"sib",
@@ -241,6 +424,43 @@
 	],
 	"file_history":
 	[
+		"/C/Users/vinicius/Projetos/SUAP/suap-curso/blog_renan/admin.py",
+		"/C/Users/vinicius/Projetos/SUAP/suap-curso/blog_mvmv/migrations/0003_comentario.py",
+		"/C/Users/vinicius/Projetos/SUAP/suap-curso/blog_renan/models.py",
+		"/C/Users/vinicius/Projetos/SUAP/suap-curso/blog_renan/templates/index.html",
+		"/C/Users/vinicius/Projetos/SUAP/suap-curso/blog_renan/templates/post.html",
+		"/C/Users/vinicius/Projetos/SUAP/suap-curso/blog_renan/templates/categoria.html",
+		"/C/Users/vinicius/Projetos/SUAP/suap-curso/blog_renan/views.py",
+		"/C/Users/vinicius/Projetos/SUAP/suap-curso/blog_mcg/migrations/0003_comentario.py",
+		"/C/Users/vinicius/Projetos/SUAP/suap-curso/blog_mvmv/apps.py",
+		"/C/Users/vinicius/Projetos/SUAP/suap-curso/blog_mvmv/templates/categoria.html",
+		"/C/Users/vinicius/Projetos/SUAP/suap-curso/suap/settings_base.py",
+		"/C/Users/vinicius/Projetos/SUAP/suap-curso/suap/settings.py",
+		"/C/Users/vinicius/Projetos/SUAP/suap-curso/blog_mvmv/templates/index.html",
+		"/C/Users/vinicius/Projetos/SUAP/suap-curso/blog_mvmv/urls.py",
+		"/C/Users/vinicius/Projetos/SUAP/ativar.bat",
+		"/C/Users/vinicius/Projetos/SUAP/suap-curso/blog_mvmv/migrations/0001_initial.py",
+		"/C/Users/vinicius/Projetos/SUAP/suap-env/Scripts/deactivate.bat",
+		"/C/Users/vinicius/Projetos/SUAP/ativar virtualenv e server.bat",
+		"/d/Users/vinicius/Desktop/ASF 3/config/Bengonos.json",
+		"/C/Users/vinicius/Projetos/SUAP/suap-env/Lib/site-packages/django/core/management/__init__.py",
+		"/C/Users/vinicius/Projetos/SUAP/suap-curso/manage.py",
+		"/d/Users/vinicius/Desktop/ASF 3/config/joexadrez.json",
+		"/d/Users/vinicius/Desktop/ASF 3/config/joexadrez.bin",
+		"/d/Users/vinicius/Desktop/ASF 3/config/ASF.json",
+		"/d/Users/vinicius/Desktop/sealife_simple/src/main.js",
+		"/d/Users/vinicius/Desktop/sealife_simple/src/gametitle.js",
+		"/d/Users/vinicius/Desktop/sealife_simple/src/preload.js",
+		"/d/Users/vinicius/Desktop/sealife_simple/index.html",
+		"/d/Users/vinicius/Desktop/sealife_simple/src/boot.js",
+		"/D/Users/vinicius/Desktop/sealife_simple/index.html",
+		"/C/Users/vinicius/Projetos/Bolita/index.html",
+		"/C/Users/vinicius/Projetos/Bolita/README.md",
+		"/C/Users/vinicius/Projetos/Bolita/game.js",
+		"/C/Users/vinicius/Projetos/Bolita/game1.js",
+		"/C/Users/vinicius/Projetos/SUAP/suap-curso/deploy/requirements.txt",
+		"/C/PostgreSQL/data/pg_hba.conf",
+		"/C/Users/vinicius/AppData/Local/Temp/Rar$DRa0.285/index.html",
 		"/C/Users/vinicius/Projetos/Bolita/README.MD",
 		"/C/Users/vinicius/git-inicio/Readme.md",
 		"/C/Users/vinicius/Projetos/Phaser/index.html",
@@ -270,14 +490,11 @@
 		"/C/Users/vinicius/AppData/Roaming/Sublime Text 3/Packages/User/git.sublime-commands",
 		"/C/Users/vinicius/AppData/Roaming/Sublime Text 3/Packages/SublimeGit/SublimeGit.sublime-settings",
 		"/C/Users/vinicius/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
-		"/d/Users/vinicius/Desktop/ASF 3/config/ASF.json",
-		"/d/Users/vinicius/Desktop/ASF 3/config/Bengonos.json",
-		"/d/Users/vinicius/Desktop/ASF 3/config/joexadrez.json",
 		"/D/Users/vinicius/Downloads/giveawayHelper.user.js"
 	],
 	"find":
 	{
-		"height": 23.0
+		"height": 40.0
 	},
 	"find_in_files":
 	{
@@ -289,9 +506,86 @@
 	},
 	"find_state":
 	{
-		"case_sensitive": true,
+		"case_sensitive": false,
 		"find_history":
 		[
+			"h5",
+			"=",
+			"á",
+			"Categoria",
+			"categoria",
+			"  this.grupoBolas.getChildAt(0).body.velocity.set(gameOptions.velocidadeBola * Math.cos(anguloDoTiro), gameOptions.velocidadeBola * Math.sin(anguloDoTiro)",
+			"distX",
+			"consol",
+			"mirarBola",
+			"x",
+			"direction",
+			"ajustarBola",
+			"bolaEx",
+			"bolaex",
+			"y",
+			"x",
+			"panel",
+			", \"",
+			"bolasFired",
+			"pointOfFire",
+			"angleOfFire",
+			"landedBalls",
+			"block",
+			"blockPosition",
+			"placeExtraBall",
+			"placedBlocks",
+			"blockSize",
+			"addLine",
+			"mergeBall",
+			"addBall",
+			"adjustBall",
+			"shootBall",
+			"aimBall",
+			"ball",
+			"extraBalls",
+			"shooting",
+			"aiming",
+			"fallingGroup",
+			"ballsGroup",
+			"blockGroup",
+			"launchPanel",
+			"scorePanel",
+			"ballsToBeAddedGroup",
+			"extraBallGroup",
+			"trajectory",
+			"extraBallProbability",
+			"maxBlocksPerLine",
+			"blocksPerLine",
+			"ballSpeed",
+			"ballSize",
+			"launchPanelHeight",
+			"scorePanelHeight",
+			"grupoBolasExtr@s",
+			"bolasExtras",
+			"grupoBolasExtras",
+			"bola",
+			"twee",
+			"twe",
+			"b",
+			"adicionarBolas",
+			"bola",
+			"immovable",
+			"inel de lançamento",
+			"console",
+			"//",
+			"\t//",
+			"//",
+			"atiraBola",
+			"playGame",
+			"x",
+			"X",
+			"ajustaBola",
+			"miraBola",
+			"bola",
+			"scipy",
+			"ldap",
+			"trust",
 			"10",
 			"X",
 			"Y",
@@ -342,8 +636,7 @@
 			"3",
 			"2",
 			"1",
-			"state1",
-			"1"
+			"state1"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -351,6 +644,11 @@
 		"regex": false,
 		"replace_history":
 		[
+			"\n\t//",
+			"\n\t//\n",
+			"\n//",
+			"\\n //",
+			"//"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -361,18 +659,226 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "game.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 19374,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								16467,
+								16467
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 238.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/vinicius/Projetos/SUAP/suap-curso/blog_mvmv/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1101,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								122,
+								122
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/vinicius/Projetos/SUAP/suap-curso/blog_mvmv/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1058,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1040,
+								1040
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/vinicius/Projetos/SUAP/suap-curso/blog_mvmv/templates/post.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 876,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								422,
+								422
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/Users/vinicius/Projetos/SUAP/suap-curso/blog_mvmv/templates/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 475,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								431,
+								431
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/Users/vinicius/Projetos/SUAP/suap-curso/blog_mvmv/templates/categoria.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 415,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								415,
+								415
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/C/Users/vinicius/Projetos/SUAP/suap-curso/blog_mvmv/admin.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 147,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								147,
+								147
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 23.0
+		"height": 27.0
 	},
 	"input":
 	{
-		"height": 35.0
+		"height": 39.0
 	},
 	"layout":
 	{
@@ -421,7 +927,7 @@
 	"project": "Bolita.sublime-project",
 	"replace":
 	{
-		"height": 42.0
+		"height": 94.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -430,6 +936,14 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"gam",
+				"game.js"
+			],
 			[
 				"3",
 				"state3.js"
@@ -506,7 +1020,7 @@
 	"show_minimap": true,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": true,
+	"side_bar_visible": false,
 	"side_bar_width": 212.0,
 	"status_bar_visible": true,
 	"template_settings":
